@@ -1,0 +1,3 @@
+#!/bin/zsh
+
+g++ -o2 -Wall G.cpp -o G
