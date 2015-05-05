@@ -1,0 +1,3 @@
+#!/bin/zsh
+
+g++ -o2 -Wall -std=c++11 D.cpp -o D
